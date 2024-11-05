@@ -1,4 +1,4 @@
-opencv
+opencv-python-headless
 torch
 torchvision
 numpy
