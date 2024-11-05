@@ -1,7 +1,7 @@
+opencv-python-headless
 torch
 torchvision
 numpy
-opencv-python-headless
 streamlit
 matplotlib
 scipy
